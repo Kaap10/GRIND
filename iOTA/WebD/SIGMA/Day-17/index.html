@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Selectors</title>
+    <style>
+        /* element selector */
+        div {
+            /* background-color: red; */
+        }
+        /* class selector */ 
+        .red {
+            background-color: red;
+        }
+        /* id selector */
+        #green {
+            background-color: green;
+        }
+        /* child selector */
+        div > p {
+            color: hotpink;
+            background-color: yellow;
+        }
+        /* descendant selector */
+        div p {
+            color: hotpink;
+            background-color: yellow;
+        }
+        /* universal selector */
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        /* pseudo selector */
+        a:visited {
+            color: red;
+        }
+        a:link {
+            color: green;
+        }
+        a:active {
+            color: blue;
+        }
+        a:hover {
+            color:hotpink;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="red">
+        i am noob
+        <p>i am noobest of the noobs </p>
+    </div>
+    <div id="green">
+        hehehehehe
+    </div>
+    <a href="https://www.google.com">Go to Google</a>
+    
+    
+</body>
+</html>
