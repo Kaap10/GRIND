@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For Cutie❤️</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Do you love me?</h1>
+        <button onclick="showResponse('love')">Yes, I love you!</button>
+        <button onclick="showResponse('nhi')">No, I have many options.</button>
+        <p id="response"></p>
+        
+        <div id="commentSection" style="display:none;">
+            <textarea id="commentBox" placeholder="Type your reason here..."></textarea>
+            <button onclick="submitComment()">Submit</button>
+            <p id="commentResponse"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
