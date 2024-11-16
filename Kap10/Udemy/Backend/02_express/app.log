@@ -1,0 +1,13 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"12.595\"}","timestamp":"2024-11-16T04:29:58.949Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Someone want to add a tea :)","timestamp":"2024-11-16T04:31:47.175Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"19.153\"}","timestamp":"2024-11-16T04:31:47.183Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"2.176\"}","timestamp":"2024-11-16T04:32:35.996Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Someone want to add a tea :)","timestamp":"2024-11-16T04:32:43.971Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"12.183\"}","timestamp":"2024-11-16T04:32:43.973Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Someone want to add a tea :)","timestamp":"2024-11-16T04:32:48.141Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.644\"}","timestamp":"2024-11-16T04:32:48.142Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Someone want to add a tea :)","timestamp":"2024-11-16T04:32:52.514Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.975\"}","timestamp":"2024-11-16T04:32:52.516Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"0.242\"}","timestamp":"2024-11-16T04:32:55.481Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Some one wants to delete file, Be ware!","timestamp":"2024-11-16T04:33:03.884Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/teas/3\",\"status\":\"200\",\"responseTime\":\"1.339\"}","timestamp":"2024-11-16T04:33:03.886Z"}
