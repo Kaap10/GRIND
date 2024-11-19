@@ -1,9 +1,9 @@
 class Solution {
 public:
-    long long maximumSubarraySum(std::vector<int>& nums, int k) {
+    long long maximumSubarraySum(vector<int>& nums, int k) {
         long long maxSum = 0;
         long long currentSum = 0;
-        std::unordered_map<int, int> elementCount;
+        unordered_map<int, int> elementCount;
         
         for (int i = 0; i < nums.size(); ++i) {
           
